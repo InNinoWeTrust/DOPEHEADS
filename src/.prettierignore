@@ -1,0 +1,9 @@
+node_modules
+design
+public
+.DS_Store
+dist
+dist-ssr
+*.local
+# Local Netlify folder
+.netlify
