@@ -6,7 +6,7 @@
         <p
           class="mt-2 font-Bebas text-3xl font-extrabold uppercase italic leading-8 tracking-wider text-gray-900 dark:text-gray-100 sm:text-4xl"
         >
-          The Law Offices of Heriberto Ramos & Associates values
+          The Dopeheads
         </p>
         <p class="mt-4 max-w-2xl text-xl text-gray-500 dark:text-gray-300 lg:mx-auto">
           Lorem ipsum dolor sit amet consect adipisicing elit.
@@ -44,18 +44,18 @@ const features = [
   {
     name: "Professionalism",
     description:
-      "The Law firm of Heriberto Ramos & Associates, efficiently and effectively use various disciplines learned in their career to solve every case with dignity, and respect our clients deserve.",
+      "The Dopeheads",
     icon: HandShake,
   },
   {
     name: "Experience",
     description:
-      "Experience has given them the knowledge and skills required in different circumstances, situations, and cases. Each case is different and therefore is treated with personalized attention.",
+      "The Dopeheads",
     icon: Badge,
   },
   {
     name: "Honesty",
-    description: "This is a virtue that characterizes them; they truly are the lawyers Houston TX resident’s trust.",
+    description: "The Dopeheads",
     icon: Scale,
   },
 ];

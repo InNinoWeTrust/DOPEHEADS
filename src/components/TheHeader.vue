@@ -79,10 +79,10 @@
                 <h2
                   class="block font-BebasExtraBold text-3xl font-semibold uppercase italic leading-none tracking-wide text-orange-500"
                 >
-                  Heriberto Ramos
+                 Dopeheads
                 </h2>
                 <span class="block text-right font-Bebas text-lg uppercase italic tracking-widest text-orange-500"
-                  >& Associates</span
+                  >NFT</span
                 >
               </router-link>
 

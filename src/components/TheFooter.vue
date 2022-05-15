@@ -96,7 +96,7 @@
       </div>
 
       <div class="py-8 text-center text-sm text-gray-400">
-        © {{ year }} - Present Heriberto Ramos & Associates. All rights reserved.
+        © {{ year }} - Dopeheads. All rights reserved.
       </div>
     </footer>
   </div>

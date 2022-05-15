@@ -6,8 +6,7 @@
       </h1>
 
       <p class="mb-6 text-gray-500 dark:text-gray-200 sm:text-lg md:mb-8">
-        Heriberto Ramos is the offical personal injury attorneys for the Houston Dynamo. Located in the heart of Uptown
-        Houston. He is here to serve the community and help you with your personal injusry case.
+        The Dopeheads
         <br />
 
         <a
