@@ -3,11 +3,11 @@
     <p class="font-medium text-white">
       <span class="md:hidden">
         <PhoneIcon class="mx-2 inline-flex h-5 w-5 flex-shrink-0 text-gray-200 dark:text-orange-500" />
-        <a class="font-Bebas italic tracking-widest" to="tel:713-333-7025">(713) GANADOR (713-333-7025)</a>
+        <a class="font-Bebas italic tracking-widest" to="tel:713-333-7025">713-205-0548</a>
       </span>
       <span class="hidden text-gray-200 md:inline">
         <PhoneIcon class="mx-2 -mt-2 inline-flex h-5 w-5 flex-shrink-0 text-gray-200 dark:text-orange-500" />
-        <a class="font-Bebas tracking-widest hover:text-white" to="tel:713-333-7025">(713) GANADOR (713-333-7025)</a>
+        <a class="font-Bebas tracking-widest hover:text-white" to="tel:713-333-7025">713-205-0548</a>
       </span>
     </p>
   </BannerComp>
@@ -22,11 +22,9 @@
                 <h2
                   class="block font-BebasExtraBold text-3xl font-semibold uppercase italic leading-none tracking-wide text-orange-500"
                 >
-                  Heriberto Ramos
+                  Dopeheads NFT
                 </h2>
-                <span class="block text-right font-Bebas text-lg uppercase italic tracking-widest text-orange-500"
-                  >& Associates</span
-                >
+             
               </router-link>
               <dark-mode-toggle class="md:hidden" />
               <div class="-mr-2 flex items-center md:hidden">
@@ -79,11 +77,10 @@
                 <h2
                   class="block font-BebasExtraBold text-3xl font-semibold uppercase italic leading-none tracking-wide text-orange-500"
                 >
-                 Dopeheads
+                 Dopeheads NFT
                 </h2>
-                <span class="block text-right font-Bebas text-lg uppercase italic tracking-widest text-orange-500"
-                  >NFT</span
-                >
+        
+            
               </router-link>
 
               <div class="-mr-2">
