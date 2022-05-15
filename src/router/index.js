@@ -7,7 +7,7 @@ const routes = [
     name: "Home",
     component: TheHome,
     meta: {
-      title: "Home | The Law Offices of Heriberto Ramos",
+      title: "Home | The Dopeheads",
     },
   },
   {
@@ -15,7 +15,7 @@ const routes = [
     name: "About",
     component: () => import("../components/AboutUs.vue"),
     meta: {
-      title: "About | The Law Offices of Heriberto Ramos",
+      title: "About | The Dopeheads",
     },
   },
   {
@@ -23,7 +23,7 @@ const routes = [
     name: "Employees",
     component: () => import("../components/OurEmployees.vue"),
     meta: {
-      title: "Employees | The Law Offices of Heriberto Ramos",
+      title: "Employees | The Dopeheads",
     },
   },
   {

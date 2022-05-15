@@ -1,4 +1,4 @@
-# H Ramos Law Website
+# Dopeheads Website
 
 Complete with the essentials:
 
