@@ -1,4 +1,4 @@
-# Dopeheads Wedsite
+# Dopeheads Website
 
 Complete with the essentials:
 
